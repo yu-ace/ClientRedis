@@ -1,0 +1,4 @@
+Netty:
+  client:
+    inetHost: 127.0.0.1
+    inetPort: 6666
